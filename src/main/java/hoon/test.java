@@ -5,5 +5,7 @@ public class test {
 		System.out.println("test");
 		
 		System.out.println("second test");
+		
+		System.out.println("third test");
 	}
 }
